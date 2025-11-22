@@ -1,0 +1,14 @@
+{
+  "name": "RabbitFunClone",
+  "symbol": "RABFUNC",
+  "description": "Mon memecoin dynamique",
+  "image": "https://raw.githubusercontent.com/Sidos-2/my-memecoin/main/token.png",
+  "properties": {
+    "creators": [
+      {
+        "address": "Fnqgtrjus7yMSjVuo9Gm8MivWjCcL79hNqgAT1d9VVa8",
+        "share": 100
+      }
+    ]
+  }
+}
